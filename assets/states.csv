@@ -1,0 +1,10 @@
+StateID,StateName,StateShortName,StateCode,GISid,IsDeleted,Sequence,CreatedBy,CreatedOn,UpdatedOn,UpdatedBy,IsActive
+18,Assam,AS,18,18,0,1,1,11/2/2024 18:38,NULL,NULL,1
+2,Himachal Pradesh,HP,2,2,0,2,1,11/2/2024 18:38,NULL,NULL,1
+20,Jharkhand,JH,20,20,0,3,,,,,
+29,Karnataka,KN,29,29,0,4,,,,,
+23,Madhya Pradesh,MP,23,23,0,5,,,,,
+27,Maharashtra,MH,27,27,0,6,,,,,
+21,Odisha,OD,21,21,0,7,,,,,
+3,Punjab,PB,3,3,0,8,,,,,
+8,Rajasthan,RJ,8,8,0,9,,,,,
