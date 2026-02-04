@@ -30,5 +30,40 @@ This repository represents the **initial technical and functional foundation** o
 
 ---
 
+## Screenshots
+
+| Intro | User Input | Home |
+|------------|-----------|--------|
+| ![Intro](screenshots/edd_intro.jpeg) | ![Input](screenshots/edd_input.jpeg) | ![Home](screenshots/edd_home.jpeg) |
+
+---
+
+## Project Structure
+
+edd_calc/
+├── lib/
+│ ├── main.dart
+│ └── screens/
+├── android/
+├── ios/
+├── pubspec.yaml
+└── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Android Studio or VS Code
+- Android emulator or physical device
+
+### Run Locally
+```bash
+git clone https://github.com/neerajkhattar02/edd_calc.git
+cd edd_calc
+flutter pub get
+flutter run
 
 
